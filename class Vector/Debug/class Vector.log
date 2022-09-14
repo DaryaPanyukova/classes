@@ -1,5 +1,0 @@
-﻿  class Vector.cpp
-C:\praki\class Vector\class Vector.cpp(19,31): warning C4018: <: несоответствие типов со знаком и без знака
-C:\praki\class Vector\class Vector.cpp(29,27): warning C4018: <: несоответствие типов со знаком и без знака
-C:\praki\class Vector\class Vector.cpp(101,23): warning C4018: >=: несоответствие типов со знаком и без знака
-  class Vector.vcxproj -> C:\praki\class Vector\Debug\class Vector.exe
